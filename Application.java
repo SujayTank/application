@@ -1,5 +1,7 @@
 class Application{
 	public Application(){
-	System.out.println("My first GitHub");
+		for(int i=0;i<10;i++){
+			System.out.println("My first GitHub-->>"+i);
+		}
 	}
 }
